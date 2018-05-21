@@ -1,0 +1,21 @@
+
+.navbar-brand{
+ 
+  background-color: turquoise;
+ 
+  color:white;
+  
+  font-weight:bold
+}
+.navbar{
+  background-color: rgb(193, 205, 216)
+}
+
+.dropdown-toggle{
+  color:black;
+}
+.nav li a{
+color:black;
+
+}
+
